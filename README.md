@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Wei Wang 
+### Hi there 👋, my name is Wei Wang, aka Shawn 
 #### I am a skilled data analyst 
 ![I am a skilled data analyst ](https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?w=1380&t=st=1706125764~exp=1706126364~hmac=72cba51d9f6c6cf8090da8ca9893e44a8d6661e2022ad97b63e3829a3b74bbc1)
 
